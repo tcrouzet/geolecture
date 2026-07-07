@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#173b36">
+  <meta name="description" content="Marchez, atteignez les balises et découvrez le récit.">
+  <title>Géolecture</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="web/styles.css?v=37">
+</head>
+<body class="is-home">
+  <header>
+    <a class="brand" href="./">Géolecture</a>
+    <label id="route-picker">Parcours <select id="route-select"></select></label>
+  </header>
+
+  <main>
+    <section class="home" id="home">
+      <div>
+        <div class="home-grid" id="home-grid"></div>
+      </div>
+    </section>
+    <section class="hero" id="top" role="button" tabindex="0" aria-label="Ouvrir cette promenade">
+      <div><p class="eyebrow" id="route-meta"></p><h1 id="route-title"></h1><p class="author" id="route-author"></p><p id="route-description"></p></div>
+      <img id="cover" alt="">
+    </section>
+    <section class="reading" hidden><div id="text"></div></section>
+    <section class="journey" hidden>
+      <div class="map-wrap"><div id="map"></div></div>
+    </section>
+  </main>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script type="module" src="web/app.js?v=37"></script>
+</body>
+</html>
