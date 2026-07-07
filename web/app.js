@@ -193,7 +193,7 @@ function buildMap() {
       button.type = 'button'
       button.title = 'Zoom sur la station en cours'
       button.setAttribute('aria-label', 'Zoom sur la station en cours')
-      button.innerHTML = '⊙'
+      button.innerHTML = '🔍'
       L.DomEvent.disableClickPropagation(button)
       L.DomEvent.on(button, 'click', () => {
         const station = currentStation()
