@@ -49,7 +49,7 @@ J’imagine une histoire sordide qui commencerait devant moi. À la sortie d’u
 
 Quand les enquêteurs retournent le corps de la victime, ils découvrent un abdomen éviscéré. La femme porte un collier gravé d’un prénom : Cybèle. Dans sa main gauche, elle serre une clé à points multiples, comme en possèdent les appartements de luxe.
 
-Un cadavre, un geste vers une statue, une clé… l’énigme doit être suffisante pour donner envie d’en savoir plus. Mais je n’ai pas besoin d’un tel prétexte pour me mettre en marche. Il pourrait y avoir des gouttes de sang dans l’allée, je pourrais me lever, les suivre. Je ne change d’endroit que parce que la balade est une partie de chasse. À la recherche de gibiers moins communs, je m’éloigne des rives menant à la Comédie.
+Un cadavre les tripes sur le bitume, un geste vers une statue, une clé… l’énigme suffit à donner envie d’en savoir plus. J’imagine des gouttes de sang dans l’allée. Je quitte le banc pour les suivre, m’éloignant des rives menant à la Comédie.
 
 # 2. La Prairie
 
@@ -57,7 +57,7 @@ Quelques pas plus loin, une seconde statue m’arrête : une jeune femme insole
 
 ![laprairie](laprairie.jpg "La Prairie")
 
-À mesure que la journée avance, de plus en plus de gens se promènent dans le jardin et profitent des bancs. Je lis quelques pages *La forme d’une ville*. La prose de Julien Gracq, comme la sieste, m’aide à entrer dans une dimension poétique de l’existence. Il écrit :
+À mesure que la journée avance, de plus en plus de gens se promènent dans le jardin et profitent des bancs. Je lis quelques pages de *La forme d’une ville*. La prose de Julien Gracq, comme la sieste, m’aide à entrer dans une dimension poétique de l’existence.
 
 >Habiter une ville, c’est tisser par ses allées et venues journalières un lacis de parcours très généralement articulés autour de quelques axes directeurs. […] les pointes poussées hors de ce périmètre familièrement hanté sont relativement peu fréquentes.
 
@@ -71,7 +71,7 @@ Je regarde longuement la statue de la fille nue. [Wikipédia](http://fr.wikipedi
 
 Hier, je bricolais chez moi quand la voisine m’a appelé. « Tu peux m’aider ? » Comme si je pouvais lui refuser quelque chose. Elle me montrait sa main gauche et me tendait une pince. Elle s’était transpercé le pouce avec une aiguille à coudre. Quand j’ai tiré sur l’aiguille, avec la pince, elle est venue en douceur, alors que je m’attendais à plus de résistance. Si ma voisine n’a pas réussi à s’enlever cette aiguille du doigt, je vois mal une mourante s’arracher un couteau du ventre. Le désir de fiction nous pousse souvent à exagérer.
 
-J’ai une amie obstétricienne. Une de ses patientes qu’une infirmière poussait dans un fauteuil roulant vers la salle de travail a hurlé qu’elle perdait quelque chose. Son bébé lui avait glissé entre les jambes, il était tombé par terre et le fauteuil roulant l’avait enjambé. Commencer sa vie comme un miraculé de la route, ce n’est pas donné à tout le monde. Je rapporte cette histoire pour montrer qu’on peut inventer n’importe quoi dans une fiction.
+J’ai une amie obstétricienne. Une de ses patientes qu’une infirmière poussait dans un fauteuil roulant vers la salle de travail a hurlé qu’elle perdait quelque chose. Son bébé lui avait glissé entre les jambes, il était tombé par terre et le fauteuil roulant l’avait enjambé. Commencer sa vie en miraculé de la route, ce n’est pas donné à tout le monde. Je rapporte cette histoire pour montrer qu’on peut inventer n’importe quoi dans une fiction.
 
 ---
 
@@ -83,7 +83,7 @@ Depuis *La Prairie*, l’allée part d’un côté vers le Polygone, vers l’ut
 
 ![comte](comte.jpg "La passerelle")
 
-Je gribouille un rapide croquis, parce que dessiner m’aide à voir. C’est une façon de devenir intime avec le lieu : j’établis entre lui et moi une connexion. Elle m’emporte et fait de moi un d’étranger, qui habite chacun de mes gestes, qui goûte chacun de mes pas, et qui d’une simple passerelle se réjouit, parce qu’elle n’a rien de surprenant, sinon sa position entre deux secteurs de la ville, dont je devine l’opposition historique.
+Je gribouille un rapide croquis, parce que dessiner m’aide à voir. C’est une façon de devenir intime avec le lieu : j’établis entre lui et moi une connexion. Elle m’emporte et fait de moi un étranger, qui habite chacun de mes gestes, qui goûte chacun de mes pas, et qui d’une simple passerelle se réjouit, parce qu’elle n’a rien de surprenant, sinon sa position entre deux secteurs de la ville, dont je devine l’opposition historique.
 
 Après quelques requêtes sur le Net, je découvre que deux collines se faisaient face. L’une bientôt occupée par l’esplanade, l’autre par une forteresse Vauban. Ces aménagements les ont peu à peu rapprochées et n’ont laissé entre elles qu’un interstice réservé aux transports.
 
@@ -91,7 +91,7 @@ De l’autre côté de la passerelle, j’imagine qu’une ville nouvelle m’at
 
 Je m’assois sur le muret de la passerelle. Je vois Cybèle s’y appuyer, y abandonner ses empreintes ensanglantées, alors que, le couteau dans le ventre, elle fuit son agresseur. D’où venait-elle ? Nécessairement de la gauche, la seule issue possible.
 
-Quand je me lève, trois hommes en costume me croisent, le plus lourd trébuche, tombe, s’écorche le genou, se relève tant bien que mal. Je ne comprends qu’un instant plus tard sa maladresse quand je manque moi-même de tomber. Des verrues parsèment le macadam, comme si des taupes tentaient de nous faire des crocs-en-jambe.
+Quand je me lève, trois hommes en costume me croisent, le plus lourd trébuche, tombe, s’écorche le genou, se relève tant bien que mal. Je ne comprends qu’un instant plus tard la cause de sa maladresse quand je manque moi-même de tomber. Des verrues parsèment le macadam, comme si des taupes tentaient de nous faire des crocs-en-jambe.
 
 # 4. L’hôtel
 
@@ -123,17 +123,17 @@ Après l’hôtel, je débouche dans un parking où les touristes ne vont jamais
 
 ![edf](edf.jpg "EDF")
 
-Rétrospectivement, la rue au pied du Crowne Plaza n’est pas étroite. La ligne épurée de l’architecture m’avait donné une fausse impression. Je me suis marré sous les caméras de l’hôtel. Je les ai photographiées, faisant des signes au cas où un opérateur regarderait, à moins qu’une intelligence artificielle ne soit déjà chargée de détecter tout mouvement belliqueux. « He ho, Artie, tu me vois ? »
+Rétrospectivement, la rue au pied du Crowne Plaza n’est pas étroite. La ligne épurée de l’architecture m’avait donné une fausse impression. Je me suis marré sous les caméras de l’hôtel. Je les ai photographiées, faisant des signes au cas où un opérateur regarderait, à moins qu’une intelligence artificielle ne soit chargée de détecter tout mouvement belliqueux. « He ho, Artie, tu me vois ? »
 
-La surveillance généralisée n’avait aucun sens tant que des humains devaient se coltiner les écrans. Il était impossible de mettre un policier derrière chacun de nous, et un policier derrière chaque policier. Désormais, des machines nous traquent. Et d’une certaine façon, je les imite puisque je monitore vos mouvements. Le plus souvent, nous nous menottons nous-mêmes.
+La surveillance généralisée n’avait aucun sens tant que des humains devaient se coltiner les écrans. Il était impossible de mettre un policier derrière chacun de nous, et un policier derrière chaque policier. Désormais, des machines nous traquent. D’une certaine façon, je les imite puisque je monitore vos mouvements. Le plus souvent, nous nous menottons nous-mêmes.
 
-Rassurez-vous, je ne récupère aucune donnée à votre sujet, mais je pourrais le faire. Je pourrais en apprendre beaucoup sur vous. Votre vitesse de lecture, à quoi vous attachez de l’importance, ce que vous regardez en fonction de l’orientation de votre mobile. Je pourrais savoir si vous êtes seul ou en compagnie. Je pourrais activer le micro, la caméra, vous enregistrer. Je pourrais devenir un auteur totalitaire. Je pourrais analyser votre déambulation, la comparer à d’autres, mesurer votre niveau de curiosité, par exemple en vérifiant si vous cliquez sur les liens glissés dans mon texte. Vous n’êtes pas obligé de me faire confiance, mais que faire d’autre pour éviter la parano ?
+Rassurez-vous, je ne récupère aucune donnée, mais je pourrais le faire et en apprendre votre vitesse de lecture, à quoi vous attachez de l’importance, ce que vous regardez en fonction de l’orientation de votre mobile. Je pourrais savoir si vous êtes seul ou en compagnie. Je pourrais activer le micro, la caméra, vous enregistrer. Je pourrais devenir un auteur totalitaire. Je pourrais analyser votre déambulation, la comparer à d’autres, mesurer votre niveau de curiosité, par exemple en vérifiant si vous cliquez sur les liens glissés dans mon texte. Vous n’êtes pas obligé de me faire confiance, mais que faire d’autre pour éviter la parano ?
 
 ---
 
-Avec sa cheminée, l’usine pourrait être un crématorium. Plus je la regarde, plus quelque chose me gêne dans sa beauté. Elle fait face aux barres des HLM en contrebas, le long du Verdanson. Des machines mieux logées que les humains ! Les IA ont déjà gagné la guerre contre l’humanité. Nous leur avons offert les clés de notre monde avant même leur naissance.
+Avec sa cheminée, l’usine pourrait être un crématorium. Quelque chose me gêne dans sa beauté. Elle fait face aux barres des HLM en contrebas, le long du Verdanson. Des machines mieux logées que les humains ! Les IA ont déjà gagné la guerre contre l’humanité. Nous leur avons offert les clés de notre monde avant même leur naissance.
 
-Cybèle aurait été torturée dans ce bâtiment. Elle s’en serait enfuie avec son couteau dans le ventre. Et nous découvririons les détails de la scène parce que tout est sous surveillance.
+Cybèle aurait été torturée dans ce bâtiment. Elle s’en serait enfuie avec son couteau dans le ventre. Nous découvririons les détails de la scène parce que tout est sous surveillance.
 
 Cybèle et d’autres jeunes seraient entrés par effraction, pour tout saccager. Ils auraient bu, elle les aurait drogués, ça aurait mal tourné, c’est même elle qui les aurait conduits là. Mon histoire ne tient pas, mais ce serait un effet, on ne comprendrait pas bien.
 
