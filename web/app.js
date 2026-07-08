@@ -265,11 +265,39 @@ function checkPosition() {
     state.current++
     localStorage.setItem(`geolecture-progress-${state.routeId}`, state.current)
     render()
-    requestAnimationFrame(() => {
-      const chapter = document.querySelector(`#chapter-${state.current}`)
-      if (chapter) chapter.scrollIntoView({ behavior: 'smooth', block: 'start' })
-    })
+    scrollToChapter(state.current)
   }
+}
+
+function imagesBefore(element) {
+  return [...document.querySelectorAll('#text img')].filter(image => image.compareDocumentPosition(element) & Node.DOCUMENT_POSITION_FOLLOWING)
+}
+
+function waitForImages(images) {
+  const pending = images.filter(image => !image.complete)
+  if (!pending.length) return Promise.resolve()
+  return Promise.all(pending.map(image => new Promise(resolve => {
+    image.addEventListener('load', resolve, { once: true })
+    image.addEventListener('error', resolve, { once: true })
+  })))
+}
+
+function scrollToElementTop(element, behavior = 'smooth') {
+  const top = element.getBoundingClientRect().top + window.pageYOffset
+  window.scrollTo({ top, behavior })
+}
+
+function scrollToChapter(id) {
+  requestAnimationFrame(() => {
+    const chapter = document.querySelector(`#chapter-${id}`)
+    const title = chapter?.querySelector('h1') || chapter
+    if (!title) return
+    scrollToElementTop(title, 'smooth')
+    waitForImages(imagesBefore(title)).then(() => {
+      requestAnimationFrame(() => scrollToElementTop(title, 'auto'))
+    })
+    window.setTimeout(() => scrollToElementTop(title, 'auto'), 450)
+  })
 }
 
 function stationInstruction(total) {

@@ -143,7 +143,7 @@ Au cœur d’un carré de pelouse planté de margousiers ou peut-être de lilas 
 
 ![danseuse](danseuse.jpg "La danseuse")
 
-Pourquoi ponctuer la ville de statues ? C’est la troisième que je croise aujourd’hui. Il y a tant de gens bien réels, tous différents. Pourquoi ajouter des idéalisations ? Peut-être parce que la statue ne bouge pas. Elle donne une idée d’éternité, alors que nous autres ne sommes que de passage. « Profite, regarde-moi, regarde mes fesses, mon sexe, vois, je ne cache rien, mais vois aussi autour de toi, vois ce croisement sans le moindre intérêt que pourtant j’enchante. » En voiture, je suis passé devant elle des milliers de fois sans jamais la voir, sans jamais la remarquer.
+Pourquoi ponctuer la ville de statues ? C’est la troisième que je croise aujourd’hui. Il y a tant de gens bien réels, tous différents. Pourquoi ajouter des idéalisations ? Peut-être parce que la statue ne bouge pas. Elle donne une idée d’éternité : « Profite, regarde-moi, regarde mes fesses, mon sexe, vois, je ne cache rien, mais vois aussi autour de toi, vois ce croisement sans le moindre intérêt que pourtant j’enchante. » En voiture, je suis passé devant elle des centaines de fois sans jamais la voir, sans jamais la remarquer.
 
 Sur le Net, je ne trouve aucune information sur elle, sinon qu’elle date de 1994. Cybèle aurait croisé sa route, avec sa bande, eux aussi, ils dansaient.
 
@@ -151,7 +151,7 @@ Sur le Net, je ne trouve aucune information sur elle, sinon qu’elle date de 19
 
 Une nouvelle fontaine. Un Neptune s’arrache de la mer. Il y a un banc libre au soleil, je m’arrête, je rêve, je lis mes mails, parce que je n’arrive plus à me tendre vers la ville. Une amie m’envoie un lien vers une émission de France Culture : « Livre numérique, histoire d’une révolution qui n’aura pas eu lieu. »
 
-Cette accroche me fait bien rire. Vous êtes en ce moment dans un livre numérique. Chaque fois que vous lisez sur le Web, vous êtes dans un livre numérique. La révolution est totale et consommée, simplement elle n’a pas obéi aux dictats du marketing. Peu à peu, elle suit sa voie, peu à peu les gens lisent sur de nouveaux supports, peu à peu le papier ne répond plus à nos désirs d’auteurs.
+Je rigole. Vous êtes en ce moment dans un livre numérique. Chaque fois que vous lisez sur le Web, vous êtes dans un livre numérique. La révolution est totale et consommée, simplement elle n’a pas obéi aux dictats du marketing. Peu à peu, elle suit sa voie, peu à peu les gens lisent sur de nouveaux supports, peu à peu le papier répond de moins en moins à nos désirs d’auteurs.
 
 ![girl](girl.jpg "Père et fille ?")
 

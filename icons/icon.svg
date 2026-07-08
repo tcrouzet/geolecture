@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Géolecture">
+  <rect width="512" height="512" fill="#173b36"/>
+  <path d="M256 68c-82 0-148 66-148 148 0 103 148 225 148 225s148-122 148-225c0-82-66-148-148-148Z" fill="#dd5f38"/>
+  <circle cx="256" cy="216" r="88" fill="#173b36"/>
+  <rect x="184" y="177" width="144" height="22" rx="11" fill="#f4efe5"/>
+  <rect x="184" y="205" width="144" height="22" rx="11" fill="#f4efe5"/>
+  <rect x="184" y="233" width="108" height="22" rx="11" fill="#f4efe5"/>
+</svg>
