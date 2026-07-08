@@ -6,17 +6,21 @@ header { height:72px; padding:0 max(5vw,24px); display:flex; align-items:center;
 .brand { font: bold 1.4rem Georgia,serif; color:inherit; text-decoration:none; } label,.eyebrow { text-transform:uppercase; letter-spacing:.12em; font-size:.75rem; font-weight:bold; }
 select { margin-left:10px; padding:8px; background:transparent; border:1px solid #aaa08e; }
 .home { min-height:calc(100dvh - 72px); display:grid; align-items:center; padding:clamp(32px,6vw,80px) max(5vw,24px); background:#173b36; color:#f7f1e7; }
-.home h1 { max-width:900px; margin:.2em 0 .8em; font:bold clamp(2.8rem,7vw,6rem)/.95 Georgia,serif; }
+.home h1 { max-width:900px; margin:0 auto .1em; font:bold clamp(2.8rem,7vw,6rem)/.95 Georgia,serif; text-align:center; }
+.home-author { margin:0 auto clamp(28px,4vw,48px); color:#d7c6aa; font:bold .95rem/1.4 Arial,sans-serif; letter-spacing:.04em; text-align:center; }
 .home-preface { max-width:860px; margin:0 auto clamp(28px,4vw,48px); font:1.08rem/1.65 Georgia,serif; color:#f7f1e7; text-align:center; }
 .home-preface p { margin:0; }
 .home-preface a { color:#f4c7aa; }
 .home-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:28px; }
-.home-card { display:block; color:inherit; text-decoration:none; background:#102d29; border:1px solid #ffffff26; overflow:hidden; }
+.home-card { display:block; color:inherit; background:#102d29; border:1px solid #ffffff26; overflow:hidden; }
+.home-card-main { display:block; color:inherit; text-decoration:none; }
 .home-card img { display:block; width:100%; height:min(42vh,420px); min-height:220px; object-fit:cover; filter:saturate(.75); }
 .home-card span { display:block; padding:22px 24px 0; text-transform:uppercase; letter-spacing:.12em; font:bold .75rem Arial,sans-serif; color:#d7c6aa; }
 .home-card strong { display:block; padding:4px 24px 0; font:bold clamp(2rem,4vw,4rem)/1 Georgia,serif; }
 .home-card small { display:block; padding:8px 24px 24px; color:#d7c6aa; }
 .home-card:hover { border-color:#dd5f38; }
+.gpx-link { color:inherit; text-decoration:underline; text-underline-offset:.18em; }
+.gpx-link:hover { color:#dd5f38; }
 .hero { height:calc(100dvh - 72px); min-height:0; display:grid; grid-template-columns:1.1fr .9fr; overflow:hidden; background:#173b36; color:#f7f1e7; cursor:pointer; }
 .hero>div { padding:clamp(48px,8vw,120px); align-self:center; }.hero h1 { font:bold clamp(3.5rem,8vw,7rem)/.9 Georgia,serif; margin:.15em 0 .3em; }.hero p { max-width:660px; line-height:1.65; }#route-description { font-size:1.08rem; }
 .hero .author { margin:-.5em 0 1.8em; font-weight:bold; letter-spacing:.04em; }

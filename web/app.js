@@ -53,6 +53,10 @@ function routeIdFromUrl() {
   return id === -1 ? null : id
 }
 
+function gpxLink(balade) {
+  return `<a class="gpx-link" href="${balade.gpxUrl}" download>GPX</a>`
+}
+
 function chapters(source) {
   return source.split(/^# /m).slice(1).map(part => {
     const [title, ...body] = part.split('\n')
@@ -320,7 +324,7 @@ function render() {
   $('#route-select').value = String(state.routeId)
   const balade = balades[state.routeId], document = currentDocument(), info = document.meta, route = balade.parcours, list = chapters(document.text)
   const finished = state.current >= list.length - 1
-  $('#route-meta').textContent = `${info.ville} · ${route.markers.length - 1} stations`
+  $('#route-meta').innerHTML = `${info.ville} · ${route.markers.length - 1} stations · ${gpxLink(balade)}`
   $('#route-title').textContent = info.titre
   $('#route-author').textContent = [info.auteur, info.date].filter(Boolean).join(', ')
   $('#route-description').textContent = info.presentation
@@ -344,12 +348,14 @@ function renderHome() {
   $('#home-preface').innerHTML = markdown(preface)
   $('#home-grid').innerHTML = documents.map((document, id) => {
     const balade = balades[id], info = document.meta, route = balade.parcours
-    return `<a class="home-card" href="${routeUrl(id)}" data-route="${id}">
-      <img src="${balade.dossier}${info.image}" alt="">
-      <span>${info.ville}</span>
-      <strong>${info.titre}</strong>
-      <small>${info.auteur}${info.date ? `, ${info.date}` : ''} · ${route.markers.length - 1} stations</small>
-    </a>`
+    return `<article class="home-card" data-route="${id}">
+      <a class="home-card-main" href="${routeUrl(id)}">
+        <img src="${balade.dossier}${info.image}" alt="">
+        <span>${info.ville}</span>
+        <strong>${info.titre}</strong>
+      </a>
+      <small>${route.markers.length - 1} stations · ${gpxLink(balade)}</small>
+    </article>`
   }).join('')
   setHidden('#home', false)
   setHidden('#top', true)
@@ -403,9 +409,13 @@ const homeGrid = $('#home-grid')
 const textSection = $('#text')
 
 if (routeSelect) routeSelect.addEventListener('change', event => selectRoute(Number(event.target.value)))
-if (topSection) topSection.addEventListener('click', openWalk)
+if (topSection) topSection.addEventListener('click', event => {
+  if (event.target.closest('.gpx-link')) return
+  openWalk()
+})
 if (topSection) topSection.addEventListener('keydown', event => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); openWalk() } })
 if (homeGrid) homeGrid.addEventListener('click', event => {
+  if (event.target.closest('.gpx-link')) return
   const card = event.target.closest('[data-route]')
   if (!card) return
   event.preventDefault()

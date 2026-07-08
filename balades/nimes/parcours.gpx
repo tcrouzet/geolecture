@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="geolecture" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Géolecture Nîmes</name>
+    <time>2026-07-08T08:56:51.638Z</time>
+  </metadata>
+  <wpt lat="43.8418" lon="4.35572">
+    <name>1. Rue Ménard</name>
+  </wpt>
+  <wpt lat="43.84276" lon="4.34933">
+    <name>2. Tour Magne</name>
+  </wpt>
+  <wpt lat="43.83993" lon="4.34896">
+    <name>3. Temple de Diane</name>
+  </wpt>
+  <wpt lat="43.83944" lon="4.35504">
+    <name>4. Anonin</name>
+  </wpt>
+  <wpt lat="43.84191" lon="4.35719">
+    <name>5. Poterne</name>
+  </wpt>
+  <trk>
+    <name>Géolecture Nîmes</name>
+    <trkseg>
+      <trkpt lat="43.8418" lon="4.35572"/>
+      <trkpt lat="43.84217" lon="4.35547"/>
+      <trkpt lat="43.84208" lon="4.3552"/>
+      <trkpt lat="43.84185" lon="4.35431"/>
+      <trkpt lat="43.84207" lon="4.35419"/>
+      <trkpt lat="43.84232" lon="4.35379"/>
+      <trkpt lat="43.84256" lon="4.3531"/>
+      <trkpt lat="43.84283" lon="4.35269"/>
+      <trkpt lat="43.84347" lon="4.35195"/>
+      <trkpt lat="43.84362" lon="4.35158"/>
+      <trkpt lat="43.84322" lon="4.34979"/>
+      <trkpt lat="43.84283" lon="4.34969"/>
+      <trkpt lat="43.84276" lon="4.34933"/>
+      <trkpt lat="43.84258" lon="4.3493"/>
+      <trkpt lat="43.84242" lon="4.34938"/>
+      <trkpt lat="43.84208" lon="4.34921"/>
+      <trkpt lat="43.84175" lon="4.34926"/>
+      <trkpt lat="43.84162" lon="4.34948"/>
+      <trkpt lat="43.8417" lon="4.35001"/>
+      <trkpt lat="43.84175" lon="4.35065"/>
+      <trkpt lat="43.84157" lon="4.35016"/>
+      <trkpt lat="43.84125" lon="4.34876"/>
+      <trkpt lat="43.84071" lon="4.34839"/>
+      <trkpt lat="43.84012" lon="4.34844"/>
+      <trkpt lat="43.83993" lon="4.34896"/>
+      <trkpt lat="43.8397" lon="4.34954"/>
+      <trkpt lat="43.83981" lon="4.35042"/>
+      <trkpt lat="43.83934" lon="4.35115"/>
+      <trkpt lat="43.83898" lon="4.35215"/>
+      <trkpt lat="43.83944" lon="4.35504"/>
+      <trkpt lat="43.83969" lon="4.35537"/>
+      <trkpt lat="43.83987" lon="4.35574"/>
+      <trkpt lat="43.84033" lon="4.35636"/>
+      <trkpt lat="43.84041" lon="4.35679"/>
+      <trkpt lat="43.84127" lon="4.35664"/>
+      <trkpt lat="43.84191" lon="4.35719"/>
+    </trkseg>
+  </trk>
+</gpx>

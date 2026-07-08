@@ -11,7 +11,7 @@ presentation: Cette géolecture de 2,5 km nécessite une grosse heure.
 
 Disparu en 1937 alors qu’il avait entrepris son œuvre majeure, le Nîmois Pierre Ménard est l’un des plus célèbres auteurs de la première moitié du XX<sup>e</sup> siècle. Depuis Buenos Aires, Jorge Luis Borges lui a rendu hommage deux ans plus tard dans la revue [*Sur*](http://ow.ly/AnmF30itbN3), dix-huit ans avant que le plus fidèle compagnon de Ménard, le Montpelliérain Maurice Legrand, ne compose un livre de témoignages « sur l’ami et sur l’écrivain », livre qu’il reconnaît « bâti un peu à la diable » et qu’il a construit à partir de souvenirs, de notes, d’extraits de correspondances, d’inédits et de bouts de papier où Ménard éparpillait ses pensées. Ce livre n’a été publié qu’en 2008 sous le titre [*Une vie de Pierre Ménard*](http://www.gallimard.fr/Catalogue/GALLIMARD/Blanche/Une-vie-de-Pierre-Menard), suite à un travail d’exégète de l’universitaire, [poéticien](https://www.universalis.fr/dictionnaire/poeticien/), traducteur et auteur, lui-même montpelliérain, [Michel Lafon](http://www.fabula.org/lht/17/welfringerhommagelafon.html).
 
-À mon tour, emboîtant les pas de Borges, Legrand et Lafon, je voudrais honorer Ménard, revenant sur les lieux où il a vécu et écrit, à commencer par la bien nommée rue Ménard sur les hauteurs de Nîmes, en contrebas de l’université sise dans un fort Vauban édifié en 1687, fort qui à l’époque de Ménard était [une prison sordide](https://criminocorpus.hypotheses.org/249) d’où les détenus avaient peu de chance de sortir vivants.
+À mon tour, emboîtant les pas de Borges, Legrand et Lafon, je voudrais honorer Ménard et revenir sur les lieux où il a vécu et écrit, à commencer par la bien nommée rue Ménard sur les hauteurs de Nîmes, en contrebas de l’université sise dans un fort Vauban édifié en 1687, fort qui à l’époque de Ménard était [une prison sordide](https://criminocorpus.hypotheses.org/249) d’où les détenus avaient peu de chance de sortir vivants.
 
 Tout commence donc rue Ménard…
 
@@ -37,7 +37,7 @@ Au projet de Daudet, fusionner Don Quichotte et Sancho Panza dans le personnage 
 
 >Il ne voulait pas composer un autre Quichotte — ce qui est facile — mais *le Quichotte.* Inutile d’ajouter qu’il n’envisagea jamais une transcription mécanique de l’original ; il ne se proposait pas de recopier.
 
-Borges nous montre alors comment deux textes identiques, rédigés à trois siècles d’écart, changent du tout au tout de signification, ce qui justifie le projet grandiose de Ménard, réactualiser une œuvre sans ne rien y toucher, en apparence seulement bien entendu.
+Borges nous montre alors comment deux textes identiques, rédigés à trois siècles d’écart, changent du tout au tout de signification, ce qui justifie le projet grandiose de Ménard, réactualiser une œuvre sans rien y toucher, en apparence seulement bien entendu.
 
 Borges s’attarde notamment sur un passage de Cervantès :
 
@@ -67,15 +67,15 @@ Je compose ce texte au début du XXI<sup>e</sup> siècle, non pas avec une plume
 
 ![Rue Rouget de Lisle](roujget2.jpg)
 
-Pour arriver au sommet du mont Cavalier, nous n’avons jamais quitté de rues portant des noms d’écrivains. De la rue Ménard, nous avons bifurqué à gauche dans la rue [d’Albenas](https://fr.wikipedia.org/wiki/Famille_d%27Albenas), un des premiers propagateurs de la Réforme à Nîmes, puis tournant à droite nous avons remonté la rue [Rouget de Lisle](https://fr.wikipedia.org/wiki/Claude_Joseph_Rouget_de_Lisle), avant de viré à nouveau à gauche dans la rue [Stéphane Mallarmé](https://fr.wikipedia.org/wiki/St%C3%A9phane_Mallarm%C3%A9).
+Pour arriver au sommet du mont Cavalier, nous n’avons jamais quitté de rues portant des noms d’écrivains. De la rue Ménard, nous avons bifurqué à gauche dans la rue [d’Albenas](https://fr.wikipedia.org/wiki/Famille_d%27Albenas), un des premiers propagateurs de la Réforme à Nîmes, puis tournant à droite nous avons remonté la rue [Rouget de Lisle](https://fr.wikipedia.org/wiki/Claude_Joseph_Rouget_de_Lisle), avant de virer à nouveau à gauche dans la rue [Stéphane Mallarmé](https://fr.wikipedia.org/wiki/St%C3%A9phane_Mallarm%C3%A9).
 
 Effectuant peu ou prou la même promenade en compagnie de Ménard à la fin du XIX<sup>e</sup> siècle, nous aurions parcouru la rue de la Bénédiction et la rue des Fours à Chaux, des toponymes plus poétiques que ceux, purement patronymiques, qui les ont depuis remplacés.
 
 Dans cet univers instable, [la tour Magne](https://fr.wikipedia.org/wiki/Tour_Magne) veille sur la plaine languedocienne depuis le III<sup>e</sup> siècle avant notre ère. Ménard aimait l’escalader pour contempler la ville. Il imaginait au loin les armées romaines parcourir la [voie Domitienne](https://fr.wikipedia.org/wiki/Voie_Domitienne), les légionnaires représentés dans son esprit comme autant de pions d’échecs.
 
-Très jeune, devant ce paysage, et peut-être parce que la tour Magne hébergeait un poste télégraphique installé en 1832, Ménard a pressenti une incongruité. Depuis l’antiquité romaine, tout avait changé et pourtant la littérature était toujours couchée avec de l’encre sur des feuilles rassemblées en volumes reliés. C’est cette immuabilité de l’objet livre, au-delà de quelques innovations et variations mineures, qui lui a plus tard donné l’idée de réinventer Cervantès à l’identique, dans le but de démontrer que les véritables révolutions échappent aux observateurs peu attentifs.
+Très jeune, devant ce paysage, et peut-être parce que la tour Magne hébergeait un poste télégraphique installé en 1832, Ménard a pressenti une incongruité. Depuis l’antiquité romaine, tout avait changé et pourtant la littérature était toujours couchée à l’encre sur des feuilles rassemblées en volumes reliés. C’est cette immuabilité de l’objet livre, au-delà de quelques innovations et variations mineures, qui lui a plus tard donné l’idée de réinventer Cervantès à l’identique, dans le but de démontrer que les véritables révolutions échappent aux observateurs peu attentifs.
 
-Aujourd’hui, quelque chose est en train de changer. La phrase de Cervantès comme celle de Ménard auraient pu être retranscrites au temps de César, et même au temps des Babyloniens. Celle de Borges, bien qu’identique mot à mot, ne peut l’être que sur un support numérique, où du moins exige-t-elle une mécanique complexe dont la mise en œuvre sur d’autres supports a dissuadé les auteurs antérieurs.
+Aujourd’hui, quelque chose est en train de changer. La phrase de Cervantès comme celle de Ménard auraient pu être retranscrites au temps de César, et même au temps des Babyloniens. Celle de Borges, bien qu’identique mot à mot, ne peut l’être que sur un support numérique, ou du moins exige-t-elle une mécanique complexe dont la mise en œuvre sur d’autres supports a dissuadé les auteurs antérieurs.
 
 En apparence, rien ne diffère, et pourtant tout diffère.
 
@@ -89,9 +89,9 @@ C’est dans cette nature réinventée par un paysagiste du XVIII<sup>e</sup> si
 
 >La ville où j’écris m’offre suffisamment de vieilles pierres pour m’ôter l’envie d’aller en contempler ailleurs.
 
-Il m’est difficile de ne pas me laisser ensorceler à mon tour. Et devant les ruines du temple, je ne peux m’empêcher de penser à Ménard, Borges, Legrand et Lafon, venus ici prier les muses, tous quatre conscients qu’aucune nymphe n’avait jamais habité le temple, qui d’ailleurs, durant l’antiquité, était probablement une bibliothèque.
+Il m’est difficile de ne pas me laisser ensorceler à mon tour. Devant les ruines du temple, je ne peux m’empêcher de penser à Ménard, Borges, Legrand et Lafon, venus ici prier les muses, tous quatre conscients qu’aucune nymphe n’avait jamais habité le temple, qui d’ailleurs, durant l’antiquité, était probablement une bibliothèque.
 
-Je suis simultanément avec eux et avec vous. J’ai l’impression que vous m’accompagnez, même si notre réunion spatiale s’effectue à distance temporelle. À cause de cette césure, il subsiste un imaginaire dans cette forme de texte qui implique le déplacement du lecteur, un imaginaire porté bien plus par l’écriture que par le dispositif capable de restituer les mots à nos yeux, et je devrais dire à nos cerveaux pour ne pas trop vite tomber dans l’archaïsme contre lequel [Julius Gregarius](https://tcrouzet.com/2017/10/17/julius-gregarius/) nous a mis en garde.
+Je suis simultanément avec eux et avec vous. J’ai l’impression que vous m’accompagnez, puisque pour me lire vous suivez ma trace grâce à un dispositif capable de restituer les mots à vos yeux, et je devrais dire à vos cerveaux pour ne pas trop vite tomber dans l’archaïsme contre lequel [Julius Gregarius](https://tcrouzet.com/2017/10/17/julius-gregarius/) nous a mis en garde.
 
 Écrire tout en sachant l’endroit exact où je serai lu change l’écriture elle-même, transforme mon dispositif d’écriture, parce que je vois ce que vous verrez dès que vous lèverez les yeux. Je n’ai donc pas besoin de décrire ce qui d’emblée se présente à vous, je n’ai pas besoin d’évoquer le mouvement des pins au-dessus du temple.
 
@@ -101,7 +101,7 @@ Dans [*Borges ou la réécriture*](http://www.seuil.com/ouvrage/borges-ou-la-ree
 
 >Tout texte est un hypertexte et tout hypertexte est un hypotexte en puissance.
 
-L’innovation du numérique n’est pas hypertextuelle. Elle n’est pas davantage non linéaire ainsiq ue le démontre Borges dans [*Le jardin aux sentiers qui bifurquent*](http://journals.openedition.org/communication/4752).
+L’innovation du numérique n’est pas hypertextuelle. Elle n’est pas davantage non linéaire ainsi que le démontre Borges dans [*Le jardin aux sentiers qui bifurquent*](http://journals.openedition.org/communication/4752).
 
 # 4. Le quai de la Fontaine
 
@@ -115,11 +115,11 @@ Comme lui, je voudrais rêver, jouer avec les images reflétées dans l’eau im
 
 Cette proposition peut prêter à mésinterprétation.
 
-Ce texte sur les traces de Pierre Ménard n’est possible que parce que votre appareil de lecture dispose d’un GPS. On pourrait croire que ce texte aurait pu être écrit avant l’apparition des GPS. Techniquement oui, mais personne ne l’a écrit avant parce qu’il faut la possibilité de dispositifs de lecture dotés de GPS pour envisager des textes pour ces dispositifs. Dans ce cas, le dispositif de lecture devientn en quelque sorte, dispositif d’écriture.
+Ce texte sur les traces de Pierre Ménard n’est possible que parce que votre appareil de lecture dispose d’un GPS. On pourrait croire que ce texte aurait pu être écrit avant l’apparition des GPS. Techniquement oui, mais personne ne l’a écrit avant parce des dispositifs de lecture dotés de GPS sont nécessaires pour envisager des textes géolocalisés. Dans ce cas, le dispositif de lecture devient, en quelque sorte, dispositif d’écriture.
 
 Nul besoin d’aller chercher le GPS pour illustrer ce point. Le blog, en offrant la possibilité de tout publier, a ouvert la voie à des œuvres nouvelles. Nées sous l’impulsion d’une technologie numérique, ces œuvres n’ont pas à conserver le numérique dans leur ADN. Certaines peuvent être projetées de façon homothétique sur des supports anciens, ce qui n’en fait pas moins des œuvres numériques. Là encore, le blog est à la fois un dispositif d’écriture et de lecture.
 
-Dans la littérature numérique, les dispositif d’écriture et de lecture se superposent. C’est une caractéristique non suffisante, bien sûr, ni même nécessaire. On en revient néanmoins à l’art de la correspondance dont les livres imprimés, malaxés à travers la chaîne du livre, nous ont détournés. La lettre écrite est la lettre lue.
+Dans la littérature numérique, les dispositifs d’écriture et de lecture se superposent. C’est une caractéristique ni suffisante, ni même nécessaire. On en revient néanmoins à l’art de la correspondance dont les livres imprimés, malaxés à travers la chaîne du livre, nous ont détournés : la lettre écrite est la lettre lue.
 
 Pourquoi je pense à tout ça après avoir marché dans les pas de Ménard ? Je devine un lien, peut-être une histoire d’intimité, être aux mêmes endroits, repenser à des choses pensées là où elles ont été pensées, une intimité que le numérique entretient par sa proximité avec l’art de la correspondance.
 
