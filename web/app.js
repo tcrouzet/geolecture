@@ -60,13 +60,16 @@ function chapters(source) {
   })
 }
 
-function inline(text) {
+function imageHtml(alt, src, title = '') {
   const info = state.routeId == null ? null : balades[state.routeId]
+  const base = info ? info.imageBase : ''
+  const caption = title || alt
+  return `<figure class="photo"><img src="${base}${src}" alt="${escapeAttribute(alt)}" loading="lazy">${caption ? `<figcaption>${inline(caption)}</figcaption>` : ''}</figure>`
+}
+
+function inline(text) {
   let html = restoreAllowedHtml(escapeHtml(text))
-    .replace(/!\[([^\]]*)\]\(([^ )]+)(?:\s+"[^"]*")?\)/g, (_, alt, src) => {
-      const base = info ? info.imageBase : ''
-      return `<img src="${base}${src}" alt="${escapeAttribute(alt)}" loading="lazy">`
-    })
+    .replace(/!\[([^\]]*)\]\(([^ )]+)(?:\s+"([^"]*)")?\)/g, (_, alt, src, title = '') => imageHtml(alt, src, title))
   html = renderLinks(html, (label, href) => {
       if (/^https?:\/\//.test(href)) return `<a href="${escapeAttribute(href)}" target="_blank" rel="noreferrer">${label}</a>`
       if (href === 'gotoaide') return label
@@ -99,7 +102,13 @@ function renderLinks(text, render) {
 function markdown(source) {
   const lines = source.split('\n')
   let html = '', paragraph = [], quote = [], list = false
-  const flushParagraph = () => { if (paragraph.length) html += `<p>${inline(paragraph.join(' '))}</p>`; paragraph = [] }
+  const flushParagraph = () => {
+    if (!paragraph.length) return
+    const text = paragraph.join(' ')
+    const image = text.match(/^!\[([^\]]*)\]\(([^ )]+)(?:\s+"([^"]*)")?\)$/)
+    html += image ? imageHtml(image[1], image[2], image[3] || '') : `<p>${inline(text)}</p>`
+    paragraph = []
+  }
   const flushQuote = () => { if (quote.length) html += `<blockquote>${quote.map(inline).join('<br>')}</blockquote>`; quote = [] }
   const flush = () => { flushParagraph(); flushQuote() }
   for (const line of lines) {
