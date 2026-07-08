@@ -2,7 +2,7 @@
 ville: Montpellier
 titre: Sortir
 auteur: Thierry Crouzet
-date: juin 2017
+date: septembre 2017
 image: cover.jpg
 presentation: Cette géolecture de 7,5 km nécessite trois heures. Préférez les chaussures de marche aux chaussures de ville. Évitez les journées qui suivent des épisodes pluvieux.
 ---

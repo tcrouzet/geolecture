@@ -5,6 +5,7 @@ const APPROACH_METERS = 8
 const state = { routeId: null, current: 0, position: null, opened: true }
 let map, reader, path, pins = [], arrows = []
 let documents = []
+let preface = ''
 
 const $ = (selector) => document.querySelector(selector)
 const escapeHtml = (value) => value.replace(/[&<>]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' })[char])
@@ -60,9 +61,12 @@ function chapters(source) {
 }
 
 function inline(text) {
-  const info = balades[state.routeId]
+  const info = state.routeId == null ? null : balades[state.routeId]
   let html = restoreAllowedHtml(escapeHtml(text))
-    .replace(/!\[([^\]]*)\]\(([^ )]+)(?:\s+"[^"]*")?\)/g, `<img src="${info.imageBase}$2" alt="$1" loading="lazy">`)
+    .replace(/!\[([^\]]*)\]\(([^ )]+)(?:\s+"[^"]*")?\)/g, (_, alt, src) => {
+      const base = info ? info.imageBase : ''
+      return `<img src="${base}${src}" alt="${escapeAttribute(alt)}" loading="lazy">`
+    })
   html = renderLinks(html, (label, href) => {
       if (/^https?:\/\//.test(href)) return `<a href="${escapeAttribute(href)}" target="_blank" rel="noreferrer">${label}</a>`
       if (href === 'gotoaide') return label
@@ -300,6 +304,7 @@ function render() {
 }
 
 function renderHome() {
+  $('#home-preface').innerHTML = markdown(preface)
   $('#home-grid').innerHTML = documents.map((document, id) => {
     const balade = balades[id], info = document.meta, route = balade.parcours
     return `<a class="home-card" href="${routeUrl(id)}" data-route="${id}">
@@ -374,6 +379,8 @@ if (textSection) textSection.addEventListener('click', event => {
 })
 async function init() {
   const textVersion = Date.now()
+  const prefaceResponse = await fetch(`balades/preface.md?_t=${textVersion}`, { cache: 'no-store' })
+  if (prefaceResponse.ok) preface = await prefaceResponse.text()
   documents = await Promise.all(balades.map(async balade => {
     const separator = balade.textUrl.includes('?') ? '&' : '?'
     const response = await fetch(`${balade.textUrl}${separator}_t=${textVersion}`, { cache: 'no-store' })

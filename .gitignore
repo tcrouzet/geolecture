@@ -2,5 +2,7 @@ node_modules
 dist
 .DS_Store
 *.log
+_doc.md
 balades/.obsidian/
 balades/*.md
+!balades/preface.md
