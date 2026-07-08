@@ -199,7 +199,7 @@ J’aimerais qu’il ait raison, mais traverser ce quartier de Montpellier me pr
 
 Derrière ce décorum se cache à peine le désir de certains hommes de s’élever au-dessus des autres, de leur vivant et au-delà, comme s’ils étaient des dieux. Je perçois partout ces aspirations, chez nos hommes politiques, chez nos philosophes, même chez nombre de mes amis écrivains. L’idéalisme, celui qui confond les idées et la réalité, fait un retour en force dans notre chaos culturel. Selon cet idéalisme, des choses sont posées au-dessus de nous, intouchables, indiscutables, à tel point qu’il devient facile d’ordonner ici-bas et en leur nom des actes abominables.
 
-Je n’insiste pas avec Cybèle parce qu’elle pourrait servir d’allégorie à ma promenade. Je la garde comme simple amusement, je ne veux en faire le symbole de rien, encore moins l’allégorie de quoi que ce soit, surtout pas à travers elle dire des choses que je pourrais dire plus directement.
+Cybèle pourrait servir d’allégorie à ma promenade, mais je la garde comme simple amusement. Je ne veux en faire le symbole de rien, encore moins l’allégorie de quoi que ce soit, surtout pas à travers elle défendre des théories.
 
 # 9. Les marches
 
@@ -209,21 +209,21 @@ Je m’arrête en haut de l’escalier au-dessus du Lez, observant un Montpellie
 
 En vous demandant de marcher pour me lire, en encrant/ancrant mon texte sur le territoire, j’en nie l’idéalité, j’en fais une chose brute, rugueuse, imparfaite comme la ville elle-même, avec ses erreurs architecturales, ses poubelles éventrées, aussi bien que ses espaces de charme.
 
-Ma géolecture est une œuvre nominaliste qui n’a pas besoin d’une Cybèle pour exister, pas besoin d’un prétexte, d’une allégorie. Elle n’importe que par le temps qu’elle implique, temps dans lequel elle vous place pour que vous expérimentiez par vous-même. C’est une invitation. Un jeu.
+Ma géolecture est une œuvre nominaliste qui n’a pas besoin d’une Cybèle pour exister, pas besoin d’un prétexte, d’une allégorie. Elle n’importe que par l’espace où elle vous projette. C’est une invitation. Un jeu.
 
 # 10. Le bassin
 
-Je suis en *terra incognita*. Cette partie de la ville a poussé sans que j’en prenne conscience. Je débouche au bord d’un bassin. La perspective s’élargit. Je reconnais sur l’autre rive du Lez la nouvelle mairie de Montpellier, et sur ma rive droite, des bâtiments de hauteur égale m’entourrent, mais d’architectures variées. Sur les toits, des lofts, certains dotés de casquettes géantes montées sur vérins pour suivre le mouvement du soleil.
+Je suis en *terra incognita*. Cette partie de la ville a poussé sans que j’en prenne conscience. Je débouche au bord d’un bassin. La perspective s’élargit. Je reconnais sur l’autre rive du Lez la nouvelle mairie de Montpellier, et sur ma rive droite, des bâtiments de hauteur égale m’entourent, mais d’architectures variées. Sur les toits, des lofts, certains dotés de casquettes géantes montées sur vérins pour suivre le mouvement du soleil.
 
 Je m’assois sur un banc devant des canards, des cygnes et des ragondins aux airs de castors. Me voilà ailleurs, dans mon siècle, après avoir dépassé les errements terminaux du siècle d’avant.
 
-Au loin, sur la gauche, un bâtiment ressemble à un diamant à facettes laiteuses, œuvre de Stark. Un rien kitsch, genre je me montre, dans la veine de tout ce que fait Stark, mais ça s’emboîte avec le reste.
+Au loin, sur la gauche, un bâtiment ressemble à un diamant à facettes laiteuses, œuvre de Starck. Un rien kitsch, genre je me montre, dans la veine de tout ce que fait Starck, mais ça s’emboîte avec le reste.
 
 Je pense à Canary Wharf, mon quartier préféré de la nouvelle Londres. Quartier d’affaires et de résidences posées sur les anciens docks au bord de la Tamise. On a voulu reproduire la même urbanisation au bord du Lez. Dit comme ça, c’est un peu ridicule. Tout ici est moins grand, moins somptueux, et pas nécessairement plus humain.
 
 Ce nouveau quartier n’est qu’un des signes de l’uniformisation du monde. « Je me veux capitale, dit la ville. Moi, la grenouille, je veux me faire aussi grosse que le bœuf, quitte à exploser. »
 
-La similitude avec Londres va loin : la mairie a été dessinée par un des plus célèbres architectes français, Jean Nouvel, Canary Wharf par un des plus célèbres architectes britanniques, Norman Foster. C’est comme si nous autres écrivains nous sentions obligés de tous écrire la même chose. N’est-ce pas ça ? De la nécessité de raconter des histoires à suspens. Je devrais ne parler que de Cybèle et de ses amis. Elle les aurait rencontrés en terrasse d’un des cafés au bord du bassin. Qu’elle se débrouille donc avec ses tueurs.
+La similitude avec Londres va loin : la mairie a été dessinée par un des plus célèbres architectes français, Jean Nouvel, Canary Wharf par un des plus célèbres architectes britanniques, Norman Foster. C’est comme si nous autres écrivains nous sentions obligés de tous écrire la même chose. N’est-ce pas ça ? De la nécessité de raconter des histoires à suspens. Je ne devrais parler que de Cybèle et de ses amis. Elle les aurait rencontrés en terrasse d’un des cafés au bord du bassin. Qu’elle se débrouille donc avec ses tueurs.
 
 ![Starck](starck.jpg "Starck")
 
@@ -235,7 +235,7 @@ Gracq a été pris au mot. Montpellier se vante désormais d’une aire urbaine 
 
 # 11. Le barrage
 
-Je suis ébahi, stupéfait, heureux, parce que ça construit bien, en pensant à nous, avec largeur, verdure, plan d’eau… ça reste la ville, mais la ville vivable.
+Je suis stupéfait : ça construit bien, en pensant à nous, avec largeur, verdure, plan d’eau… ça reste la ville, mais la ville vivable.
 
 ![La bordure](bordure.jpg "Chantier")
 
@@ -268,7 +268,7 @@ J’espère vous tenir par les lieux où je vous amène, un peu aveuglément, me
 
 C’est quelque chose, cet alignement de façades qui se reflètent dans le Lez, au fil de son cours immobile. On ne devrait pas le qualifier de rivière, mais d’oued. Il ne s’énerve que par intermittence, une ou deux fois par an ; le reste du temps, il se donne un genre indolent grâce aux retenues disposées sur son cours, qui, je l’espère, restera sauvage et ne sera pas transformé en voie navigable comme l’envisageait un des empereurs montpelliérains.
 
-Le sentier sur la berge est crade : ordures dégurgitées vers la périphérie, vestiges de campements de SDF. Le remonter vers la ville, c’est peu à peu regagner l’ordre, jusqu’à l’ostentatoire mairie. Ça vaut la peine de grimper dans le jardin, de regarder le ventre de cette structure qui rappelle les entrailles d’un accélérateur de particules ou un [tokamak](https://fr.wikipedia.org/wiki/Tokamak) destiné à confiner des réactions thermonucléaires.
+Le sentier sur la berge est crade : ordures dégurgitées vers la périphérie, vestiges de campements de SDF. Le remonter vers la ville, c’est peu à peu regagner l’ordre, jusqu’à l’ostentatoire mairie. Ça vaut la peine de grimper dans le jardin, de regarder le ventre de cette structure qui rappelle les entrailles d’un accélérateur de particules ou d’un [tokamak](https://fr.wikipedia.org/wiki/Tokamak) destiné à confiner des réactions thermonucléaires.
 
 ![La mairie](mairie.jpg "Mairie")
 
@@ -280,7 +280,7 @@ Gracq évoque ces « rhizomes qui crèvent de loin en loin le terreau du jailli
 
 ---
 
-J’ai parlé de ma géolecture à [Arnaud Maïsetti](http://www.arnaudmaisetti.net/spip/), explorateur du Net littéraire et spécialiste du théâtre. Je lui ai dit écrire une pièce de théâtre pour un spectateur et zéro acteur. Arnaud m’a fait remarquer que cette pièce pouvait être interprétée d’une multitude de façons. Vous pouvez la lire à plusieurs, un acteur peut vous attendre sur les lieux, lire mon texte, plusieurs acteurs peuvent jouer des scènes auxquelles j’ai assistées ou en inventer de nouvelles, pour travestir le réel, l’intensifier. L’un d’eux nous ferait de grands signes et nous crierait de le suivre.
+J’ai parlé de ma géolecture à [Arnaud Maïsetti](http://www.arnaudmaisetti.net/spip/), explorateur du Net littéraire et spécialiste du théâtre. Je lui ai dit écrire une pièce de théâtre pour un spectateur et zéro acteur. Arnaud m’a fait remarquer que cette pièce pouvait être interprétée d’une multitude de façons. Vous pouvez la lire à plusieurs, un acteur peut vous attendre sur les lieux, lire mon texte, plusieurs acteurs peuvent jouer des scènes auxquelles j’ai assisté ou en inventer de nouvelles pour travestir le réel. L’un d’eux nous ferait de grands signes et nous crierait de le suivre.
 
 # 13. La passerelle
 
@@ -288,7 +288,7 @@ Le Lez sert de colonne vertébrale à la ville nouvelle. Il la traverse et la so
 
 Depuis le banc face à la passerelle du nouveau quartier universitaire, je vois passer les jeunes aliments qui seront bientôt digérés, avant d’être normalisés et rangés dans de petites boîtes soigneusement étiquetées, comme des livres dans les rayons des libraires, tous tenus d’avoir un genre, sans se hasarder à des chevauchements qui mettraient en déroute les taxinomies commerciales.
 
-J’entends la cloche d’un tram invisible qui s’éloigne. Comme Gracq, j’aimerais dire que cet omnibus est couleur de beurre fondu, mais à Montpellier ils font plutôt penser à des glaçons arrachés à une cascade de glace ou à de la lave mal refroidie, rien qui ne donne envie d’être tartiné sur du bon pain.
+J’entends la cloche d’un tram invisible qui s’éloigne. Comme Gracq, j’aimerais dire que cet omnibus est couleur de beurre fondu, mais à Montpellier ils font plutôt penser à des glaçons arrachés à une cascade de glace ou à de la lave mal refroidie, rien qui donne envie d’être tartiné sur du bon pain.
 
 ![Le Lez](lez1.jpg "Le Lez")
 
@@ -342,7 +342,7 @@ Un panneau rouge indique « Rue privée ». La plupart des volets sont fermés
 
 Au bout de la rue se dresse une façade moderne, avec des balcons métalliques agréables au regard, pas à l’oreille : un résident balance sa musique à tue-tête. Ses voisins doivent rêver de l’étrangler.
 
-Je me souviens de Paris, des journées d’été, quand les bruits des autres se glissaient dans mon appartement, un peu comme dans un bar où on entend le cliquetis des verres et des grands coups donnés à la coupelle de la machine à café pour en arracher le marc. Cette musique me faisait vivre avec les autres, partager avec eux un espace et des sensations. Tout ça remonte à très loin, à un autre temps de l’humanité, où nous étions d’une certaine façon proches les uns des autres, plus à l’écoute, où le moindre tintement nous parlait. Aujourd’hui, le tumulte recouvre tout, et ce résident engendre le sien, pour se protéger de ce qu’il pourrait percevoir de ses semblables.
+Je me souviens de Paris, des journées d’été, quand les bruits des autres se glissaient dans mon appartement, un peu comme dans un bar où on entend le cliquetis des verres et des grands coups donnés à la coupelle de la machine à café pour en arracher le marc. Cette musique me faisait vivre avec les autres, partager avec eux un espace et des sensations. Tout ça remonte à très loin, à un autre temps de l’humanité, où nous étions proches les uns des autres, plus à l’écoute, où le moindre tintement nous parlait. Aujourd’hui, le tumulte recouvre tout, et ce résident engendre le sien, pour se protéger de ce qu’il pourrait percevoir de ses semblables.
 
 # 16. Mensonges
 
@@ -384,7 +384,7 @@ J’aime cette idée que le chemin importe plus que sa destination. On ne trouve
 
 Une petite chose toutefois. J’écris, photographie, gribouille toujours pour mieux voir, mieux prendre conscience, donc mieux jouir du monde. Mais cette écriture égoïste ne se moque pas de vous. J’ai toujours l’espoir que mes mots provoquent en vous les sensations qui les ont inspirées, et qu’ils vous invitent au voyage. Avec la géolecture, j’ai inversé le processus : je vous ai poussé à d’abord vous déplacer.
 
-Je n’envisage plus la littérature que comme un puzzle. Une chose si informe qu’elle ne peut plus glisser dans aucune forme qui pourrait être empaquetée dans un produit. Accepter d’arracher le texte au livre revient soudain à lui ouvrir des potentiels peu explorés.
+Je n’envisage plus la littérature que comme un puzzle. Ou un liquide qui ne peut plus couler dans un produit. Accepter d’arracher le texte au livre revient soudain à lui ouvrir de nouvelles possibilités.
 
 Le texte de ma balade, avec ses illustrations, pourrait être imprimé, illustré de cartes. Il ne serait alors qu’une projection, comme une ombre dans la caverne de Platon.
 

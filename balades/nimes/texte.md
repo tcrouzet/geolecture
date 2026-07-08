@@ -17,7 +17,7 @@ Tout commence donc rue Ménard…
 
 # 1. Rue Ménard
 
-![Le 18](18.jpg "18")
+![Le 18](18.jpg)
 
 Dès la fin du XVIII<sup>e</sup> siècle, cette rue a été baptisée Ménard en mémoire de [Léon Ménard](https://fr.wikipedia.org/wiki/L%C3%A9on_M%C3%A9nard), célèbre pour son *Histoire civile, ecclésiastique et littéraire de la ville de Nismes*, dont les sept tomes ont été publiés entre 1744 et 1758. Depuis Proust, nous connaissons la puissance de la [toponymie](https://fr.wikipedia.org/wiki/Toponymie) et il n’est pas étonnant qu’au début du XIX<sup>e</sup> siècle une famille Ménard se soit installée sur cette rue, attirée par une concordance de nom.
 
@@ -63,9 +63,9 @@ Je compose ce texte au début du XXI<sup>e</sup> siècle, non pas avec une plume
 
 # 2. La tour Magne
 
-![rouget1](roujget1.jpg "Rue Rouget de Lisle")
+![Rue Rouget de Lisle](roujget1.jpg)
 
-![rouget2](roujget2.jpg "Rue Rouget de Lisle")
+![Rue Rouget de Lisle](roujget2.jpg)
 
 Pour arriver au sommet du mont Cavalier, nous n’avons jamais quitté de rues portant des noms d’écrivains. De la rue Ménard, nous avons bifurqué à gauche dans la rue [d’Albenas](https://fr.wikipedia.org/wiki/Famille_d%27Albenas), un des premiers propagateurs de la Réforme à Nîmes, puis tournant à droite nous avons remonté la rue [Rouget de Lisle](https://fr.wikipedia.org/wiki/Claude_Joseph_Rouget_de_Lisle), avant de viré à nouveau à gauche dans la rue [Stéphane Mallarmé](https://fr.wikipedia.org/wiki/St%C3%A9phane_Mallarm%C3%A9).
 
@@ -83,7 +83,7 @@ La littérature devient numérique quand le numérique la rend possible. Si on c
 
 # 3. Le temple de Diane
 
-![dormeur](dormeur.jpg "Dormeur")
+![Le dormeur](dormeur.jpg)
 
 C’est dans cette nature réinventée par un paysagiste du XVIII<sup>e</sup> siècle, une nature littéraire en quelque sorte, que Ménard est devenu poète.
 
@@ -105,7 +105,7 @@ L’innovation du numérique n’est pas hypertextuelle. Elle n’est pas davant
 
 # 4. Le quai de la Fontaine
 
-![quai](quai.jpg "Le quai de la Fontaine")
+![Le quai de la Fontaine](quai.jpg)
 
 Ménard a écrit :
 
@@ -125,7 +125,7 @@ Pourquoi je pense à tout ça après avoir marché dans les pas de Ménard ? Je
 
 # 5. La poterne
 
-![poterne](poterne.jpg "Poterne")
+![Poterne](poterne.jpg)
 
 Me tenir à l’entrée de l’université m’incite à terminer ce texte par quelques remarques et annotations.
 
